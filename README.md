@@ -7,7 +7,7 @@ To run this project, you need to install the required Python dependencies listed
 First, clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/akmchnkv/NLP-IU-S24
-cd your-repository-name
+cd NLP-IU-S24
 ```
 
 ### Step 2: Install Dependencies
