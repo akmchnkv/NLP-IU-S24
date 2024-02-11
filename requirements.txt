@@ -1,0 +1,4 @@
+transformers==4.37.0
+matplotlib==3.7.4
+tqdm==4.66.2
+pandas==2.1.4
