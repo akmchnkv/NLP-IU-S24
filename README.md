@@ -1,4 +1,5 @@
 This repo contain assignments from NLP course in Innopolis University
+
 To run this project, you need to install the required Python dependencies listed in `requirements.txt`. Here's how you can install them:
 
 ### Step 1: Clone the Repository
